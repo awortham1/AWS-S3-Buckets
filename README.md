@@ -1,7 +1,7 @@
 
 # Secure S3 Buckets - AWS Cloud Security Lab
 
-
+![](images/aws-buckets.png)
 
 In this exercise, we will learn how to use AWS security policies and configurations to secure sensitive data in S3 
 and provide access to only the intended people and applications - a 
